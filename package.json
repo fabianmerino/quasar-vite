@@ -1,0 +1,20 @@
+{
+  "name": "quasar-vite",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.11.3",
+    "quasar": "^2.2.1",
+    "vue": "^3.2.16"
+  },
+  "devDependencies": {
+    "@quasar/vite-plugin": "^1.0.1",
+    "@vitejs/plugin-vue": "^1.9.3",
+    "sass": "1.32.0",
+    "vite": "^2.6.4"
+  }
+}
